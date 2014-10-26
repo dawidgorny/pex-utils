@@ -1,0 +1,25 @@
+{
+  "name": "pex-utils",
+  "version": "0.0.1",
+  "description": "Various utilities for the pex library",
+  "homepage": "https://github.com/dawidgorny/pex-utils",
+  "keywords": [
+  ],
+  "author": {
+    "name": "Dawid Górny",
+    "email": "hello@dawidgorny.com",
+    "url": "http://dawidgorny.com"
+  },
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dawidgorny/pex-utils.git"
+  },
+  "bugs": "https://github.com/dawidgorny/pex-utils/issues",
+  "homepage": "https://github.com/dawidgorny/pex-utils.git",
+  "license": "MIT"
+}
